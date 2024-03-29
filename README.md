@@ -15,11 +15,11 @@ Welcome to the Flutter Task Manager App repository! This Flutter project is desi
 
 Here are some screenshots of the app:
 
-1. ![Screenshot 1](screenshots/screenshot1.png)
-2. ![Screenshot 2](screenshots/screenshot2.png)
-3. ![Screenshot 3](screenshots/screenshot3.png)
-4. ![Screenshot 4](screenshots/screenshot4.png)
-5. ![Screenshot 5](screenshots/screenshot5.png)
+1. ![Screenshot 1](screenshots/screenshot1.jpg)
+2. ![Screenshot 2](screenshots/screenshot2.jpg)
+3. ![Screenshot 3](screenshots/screenshot3.jpg)
+4. ![Screenshot 4](screenshots/screenshot4.jpg)
+5. ![Screenshot 5](screenshots/screenshot5.jpg)
 
 ## Prerequisites
 
